@@ -1,0 +1,24 @@
+{
+  "name": "moushauth",
+  "version": "1.0.0",
+  "description": "Verificação de licenças, utilizando o método GET, para adaptação em projetos.",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candidovitu/moushauth.git"
+  },
+  "author": "iVituu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candidovitu/moushauth/issues"
+  },
+  "homepage": "https://github.com/candidovitu/moushauth#readme"
+}
