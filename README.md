@@ -14,5 +14,5 @@ Licença inválida:
 
 # Créditos / dependências 
 
-ExpressJS - Webserver
-MySQL - Database
+* ExpressJS - Webserver
+* MySQL - Database
