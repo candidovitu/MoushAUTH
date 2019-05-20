@@ -1,5 +1,5 @@
 # MoushAUTH
-Verificação de licenças, utilizando o método GET, para adaptação em projetos.
+Verificação de licenças, utilizando express e mysql, para adaptação em projetos.
 
 
 
@@ -10,3 +10,9 @@ Licença válida:
 
 Licença inválida:
 ![invalido](https://i.imgur.com/LcXIXkz.png)
+
+
+# Créditos / dependências 
+
+ExpressJS - Webserver
+MySQL - Database
